@@ -1,3 +1,8 @@
+![GitHub top language](https://img.shields.io/github/languages/top/abhijitramesh/ToDoApp.svg?style=for-the-badge)
+![Travis (.org)](https://img.shields.io/travis/abhijitramesh/ToDoApp.svg?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/abhijitramesh/ToDoApp.svg?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/abhijitramesh/ToDoApp.svg?style=for-the-badge)
+
 # Room Persistent Library
 
 ## What is room ?
